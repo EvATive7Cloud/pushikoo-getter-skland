@@ -1,13 +1,13 @@
 <div align="center">
 
-# pushikoo-adapter-testgetter
+# pushikoo-getter-skland
 
-TestGetter for pushikoo-adapter development as a template.
+Skland (森空岛) getter for Pushikoo.
 
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Pushikoo/pushikoo-adapter-testgetter/package.yml)](https://github.com/Pushikoo/pushikoo-adapter-testgetter/actions)
-[![Python](https://img.shields.io/pypi/pyversions/pushikoo-adapter-testgetter)](https://pypi.org/project/pushikoo-adapter-testgetter)
-[![PyPI version](https://badge.fury.io/py/pushikoo-adapter-testgetter.svg)](https://pypi.org/project/pushikoo-adapter-testgetter)
-[![License](https://img.shields.io/github/license/Pushikoo/pushikoo-adapter-testgetter.svg)](https://pypi.org/project/pushikoo-adapter-testgetter/)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Pushikoo/pushikoo-getter-skland/package.yml)](https://github.com/EvATive7Cloud/pushikoo-getter-skland/actions)
+[![Python](https://img.shields.io/pypi/pyversions/pushikoo-getter-skland)](https://pypi.org/project/pushikoo-getter-skland)
+[![PyPI version](https://badge.fury.io/py/pushikoo-getter-skland.svg)](https://pypi.org/project/pushikoo-getter-skland)
+[![License](https://img.shields.io/github/license/Pushikoo/pushikoo-getter-skland.svg)](https://pypi.org/project/pushikoo-getter-skland/)
 
 </div>
