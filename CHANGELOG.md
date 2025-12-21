@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/EvATive7Cloud/pushikoo-getter-skland/compare/v0.1.0...v0.1.1) (2025-12-21)
+
+
+### Documentation
+
+* update repository references in badges ([5b3d59c](https://github.com/EvATive7Cloud/pushikoo-getter-skland/commit/5b3d59cf498e550dffeb5b908f91160cf0a17668))
+
 ## 0.1.0 (2025-12-15)
 
 
